@@ -4,38 +4,35 @@
 4. pip install yt-dlp
 5. pip install ffmpeg
 6. If ffmpeg not work please do sstep below:
-   Download FFmpeg:
+   1.Download FFmpeg:
 
-Go to https://github.com/BtbN/FFmpeg-Builds/releases
-Look for ffmpeg-master-latest-win64-gpl.zip
-Download this file
-
-
-Install FFmpeg:
-
-Create a folder called ffmpeg in C:\ (so the path will be C:\ffmpeg)
-Extract the downloaded zip file
-Inside the extracted folder, go to the bin folder
-Copy these three files:
+2.Go to https://github.com/BtbN/FFmpeg-Builds/releases
+3.Look for ffmpeg-master-latest-win64-gpl.zip
+4.Download this file
+5.Install FFmpeg:
+6.Create a folder called ffmpeg in C:\ (so the path will be C:\ffmpeg)
+7.Extract the downloaded zip file
+8.Inside the extracted folder, go to the bin folder
+9.Copy these three files:
 
 ffmpeg.exe
 ffplay.exe
 ffprobe.exe
 
 
-Paste them into your C:\ffmpeg folder
+10.Paste them into your C:\ffmpeg folder
 
 
-Add FFmpeg to System Path:
+11.Add FFmpeg to System Path:
 
-Right-click on 'This PC' or 'My Computer'
-Click 'Properties'
-Click 'Advanced system settings'
-Click 'Environment Variables'
-Under 'System Variables', find and select 'Path'
-Click 'Edit'
-Click 'New'
-Add C:\ffmpeg
-Click 'OK' on all windows
+12.Right-click on 'This PC' or 'My Computer'
+13.Click 'Properties'
+14.Click 'Advanced system settings'
+15.Click 'Environment Variables'
+16.Under 'System Variables', find and select 'Path'
+17.Click 'Edit'
+18.Click 'New'
+19.Add C:\ffmpeg
+20.Click 'OK' on all windows
 
 ** Please run file and try to downlaod.
